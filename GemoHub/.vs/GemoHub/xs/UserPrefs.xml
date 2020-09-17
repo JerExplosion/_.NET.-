@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{53DFA618-E025-47D6-9DB6-C71C64ED3F62}|Default">
+  <MonoDevelop.Ide.ItemProperties.GemoHub PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GemoHub/Startup.cs">
+    <Files>
+      <File FileName="GemoHub/Pages/Shared/_Layout.cshtml" Line="15" Column="1" />
+      <File FileName="GemoHub/EmotiClass.cs" Line="12" Column="1" />
+      <File FileName="GemoHub/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GemoHub" expanded="True">
+            <Node name="GemoHub" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
