@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{834EAC7A-CC1B-4C7B-8F2C-7B29D4CCDD78}|Default">
+  <MonoDevelop.Ide.ItemProperties.GemoHub PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmoEmp.cs">
+    <Files>
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="15" Column="1" />
+      <File FileName="EmoEmp.cs" Line="4" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GemoHub" expanded="True">
+            <Node name="GemoHub" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="GithubEmojiService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

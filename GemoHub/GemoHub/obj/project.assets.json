@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerryren/Desktop/GemoHub/GemoHub/GemoHub.csproj",
+      "projectUniqueName": "/Users/jerryren/Desktop/_.NET.-/GemoHub/GemoHub/GemoHub.csproj",
       "projectName": "GemoHub",
-      "projectPath": "/Users/jerryren/Desktop/GemoHub/GemoHub/GemoHub.csproj",
+      "projectPath": "/Users/jerryren/Desktop/_.NET.-/GemoHub/GemoHub/GemoHub.csproj",
       "packagesPath": "/Users/jerryren/.nuget/packages/",
-      "outputPath": "/Users/jerryren/Desktop/GemoHub/GemoHub/obj/",
+      "outputPath": "/Users/jerryren/Desktop/_.NET.-/GemoHub/GemoHub/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jerryren/.config/NuGet/NuGet.Config"
