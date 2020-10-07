@@ -2,9 +2,11 @@
   <MonoDevelop.Ide.ItemProperties.GemoHub PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GemoHub/Startup.cs">
     <Files>
-      <File FileName="GemoHub/Pages/Shared/_Layout.cshtml" Line="15" Column="1" />
-      <File FileName="GemoHub/EmotiClass.cs" Line="12" Column="1" />
-      <File FileName="GemoHub/Startup.cs" Line="1" Column="1" />
+      <File FileName="GemoHub/GithubEmojiService.cs" Line="13" Column="28" />
+      <File FileName="GemoHub/IGithubEmojiService.cs" Line="1" Column="1" />
+      <File FileName="GemoHub/Startup.cs" Line="115" Column="4" />
+      <File FileName="GemoHub/EmoEmp.cs" Line="1" Column="1" />
+      <File FileName="GemoHub/EmotiClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
