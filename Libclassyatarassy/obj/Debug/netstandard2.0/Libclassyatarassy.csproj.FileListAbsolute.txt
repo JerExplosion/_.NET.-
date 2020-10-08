@@ -1,0 +1,9 @@
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/bin/Debug/netstandard2.0/Libclassyatarassy.deps.json
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/bin/Debug/netstandard2.0/Libclassyatarassy.dll
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/bin/Debug/netstandard2.0/Libclassyatarassy.pdb
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.csprojAssemblyReference.cache
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.AssemblyInfoInputs.cache
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.AssemblyInfo.cs
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.csproj.CoreCompileInputs.cache
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.dll
+/Users/jerryren/Desktop/_.NET.-/Libclassyatarassy/obj/Debug/netstandard2.0/Libclassyatarassy.pdb

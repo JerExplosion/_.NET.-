@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EB640CC6-76AC-4B79-9AC6-CDA016FEB02A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Libclassyatarassy/Class1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="1" />
+      <File FileName="../Libclassyatarassy/Class1.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HeySoulSista" expanded="True">
+            <Node name="HeySoulSista" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HeySoulSista PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

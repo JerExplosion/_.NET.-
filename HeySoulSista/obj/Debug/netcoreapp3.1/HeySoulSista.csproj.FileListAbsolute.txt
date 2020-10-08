@@ -1,0 +1,12 @@
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/bin/Debug/netcoreapp3.1/HeySoulSista.deps.json
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/bin/Debug/netcoreapp3.1/HeySoulSista.runtimeconfig.json
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/bin/Debug/netcoreapp3.1/HeySoulSista.runtimeconfig.dev.json
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/bin/Debug/netcoreapp3.1/HeySoulSista.dll
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/bin/Debug/netcoreapp3.1/HeySoulSista.pdb
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.csprojAssemblyReference.cache
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.AssemblyInfoInputs.cache
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.AssemblyInfo.cs
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.csproj.CoreCompileInputs.cache
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.dll
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.pdb
+/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/Debug/netcoreapp3.1/HeySoulSista.genruntimeconfig.cache

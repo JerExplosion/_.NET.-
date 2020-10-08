@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jerryren/Desktop/_.NET.-/HeySoulSista/HeySoulSista.csproj",
-      "projectName": "HeySoulSista",
-      "projectPath": "/Users/jerryren/Desktop/_.NET.-/HeySoulSista/HeySoulSista.csproj",
+      "projectUniqueName": "/Users/jerryren/Desktop/_.NET.-/VmcmV/VmcmV.csproj",
+      "projectName": "VmcmV",
+      "projectPath": "/Users/jerryren/Desktop/_.NET.-/VmcmV/VmcmV.csproj",
       "packagesPath": "/Users/jerryren/.nuget/packages/",
-      "outputPath": "/Users/jerryren/Desktop/_.NET.-/HeySoulSista/obj/",
+      "outputPath": "/Users/jerryren/Desktop/_.NET.-/VmcmV/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jerryren/.config/NuGet/NuGet.Config"
+        "/Users/jerryren/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -52,6 +52,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
