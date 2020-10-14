@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AD7929FC-96C8-42F8-BC3C-7F56379349E5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Simpleton/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Simpleton/Startup.cs" Line="1" Column="1" />
+      <File FileName="Simpleton/Program.cs" Line="14" Column="48" />
+      <File FileName="Simpleton/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="Simpleton/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Simpleton/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Simpleton/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Simpleton" expanded="True">
+            <Node name="Simpleton" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Simpleton FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
