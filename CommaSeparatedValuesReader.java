@@ -41,6 +41,54 @@ public class CommaSeparatedValuesReader {
             BufferedReader courseinfoReader = new BufferedReader(new FileReader(courseinfoPath));
             BufferedReader studentcourselistReader = new BufferedReader(new FileReader(studentcourselistPath));
             BufferedReader studentinfoReader = new BufferedReader(new FileReader(studentinfoPath));
+
+            while ((lineObject1 = courseinfoReader.readLine()) != null) {
+                String[] dataArr = lineObject1.split(",");
+                String courseID = dataArr[0];
+                String professorID = dataArr[1];
+                String name = dataArr[2];
+                String credits = dataArr[3];
+
+                pStatement1.setString(1, courseID);
+                pStatement1.setString(2, professorID);
+                pStatement1.setString(3, name);
+                pStatement1.setString(4, credits);
+            }
+
+            while ((lineObject2 = studentcourselistReader.readLine()) != null) {
+                String[] dataArr = lineObject2.split(",");
+                String studentID = dataArr[0];
+                String courseID = dataArr[1];
+                String finalGrade = dataArr[2];
+
+                pStatement2.setString(1, studentID);
+                pStatement2.setString(2, courseID);
+                pStatement2.setString(3, finalGrade);
+            }
+
+            while ((lineObject3 = studentinfoReader.readLine()) != null) {
+                String[] dataArr = lineObject1.split(",");
+                String studentID = dataArr[0];
+                String firstName = dataArr[1];
+                String lastName = dataArr[2];
+                String address = dataArr[3];
+                String zipCode = dataArr[4];
+                String phoneNum = dataArr[5];
+
+                pStatement3.setString(1, studentID);
+                pStatement3.setString(2, firstName);
+                pStatement3.setString(3, lastName);
+                pStatement3.setString(4, address);
+                pStatement3.setString(5, zipCode);
+                pStatement3.setString(6, phoneNum);
+            }
+
+            pStatement1.execute();
+            pStatement2.execute();
+            pStatement3.execute();
+
+            sqlConnection.commit();
+            sqlConnection.close();
         }
 
         catch (SQLException sqlExc) {
@@ -51,4 +99,4 @@ public class CommaSeparatedValuesReader {
             ioExc.printStackTrace();
         }
     }
-}     
+}
